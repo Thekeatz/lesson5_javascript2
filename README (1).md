@@ -4,17 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Feb 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Keaton Coates)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I am using the tax calculator application 
+to compute a users tax bracket and tax estimate using his total income)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://thekeatz.github.io/lesson5_javascript2/ )
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
